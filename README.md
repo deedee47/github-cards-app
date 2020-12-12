@@ -1,3 +1,9 @@
+# Github Cards App project from Getting Started - React on Pluralsight
+This project was setup using the create-react-app, hence the documentation for that remains below.
+
+This is a hands-on project to build react applications
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
