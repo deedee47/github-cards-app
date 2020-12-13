@@ -1,7 +1,7 @@
 # Github Cards App project from Getting Started - React on Pluralsight
 This project was setup using the create-react-app, hence the documentation for that remains below.
 
-This is a hands-on project to build react applications
+This is a hands-on project to a build react application which displays the profiles of github users by receiving input on the username with the help of the github profile api.
 
 
 # Getting Started with Create React App
