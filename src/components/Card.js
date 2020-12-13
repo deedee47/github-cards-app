@@ -22,7 +22,7 @@ class Card extends React.Component
 const CardList = (props) => (
     <div>
         {
-            props.details.profiles.map(profile => <Card {...profile} key={`card`+ Math.random()}  />)
+            props.details.profiles.map(profile => <Card {...profile} key={profile.id}  />)
         }
     </div>
 
